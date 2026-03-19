@@ -1,4 +1,5 @@
 # MyMeals
+Repo: `https://github.com/Ruclo/mymealsdashboard`
 Full-stack restaurant dashboard with a Go backend and a React + Vite frontend.
 
 **Structure**
@@ -20,5 +21,5 @@ docker compose up --build
 2. Frontend: follow `Mymealsfe/README.md`.
 
 **Related**
-- Backend: `MyMeals/README.md`
-- Frontend: `Mymealsfe/README.md`
+- Backend: `https://github.com/Ruclo/MyMeals`
+- Frontend: `https://github.com/Ruclo/Mymealsfe`

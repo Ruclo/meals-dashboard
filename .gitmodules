@@ -1,6 +1,6 @@
 [submodule "MyMeals"]
 	path = MyMeals
-	url = ./MyMeals
+	url = https://github.com/Ruclo/MyMeals.git
 [submodule "Mymealsfe"]
 	path = Mymealsfe
-	url = ./Mymealsfe
+	url = https://github.com/Ruclo/Mymealsfe.git

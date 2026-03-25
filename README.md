@@ -1,5 +1,5 @@
 # MyMeals
-(MyMeals)[https://mymeals.duckdns.org/]
+https://mymeals.duckdns.org/
 
 Repo: `https://github.com/Ruclo/mymealsdashboard`
 Full-stack restaurant dashboard with a Go backend and a React + Vite frontend.
